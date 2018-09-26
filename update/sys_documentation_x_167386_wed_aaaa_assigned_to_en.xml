@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="assigned_to" label="Assigned to" language="en" table="x_167386_wed_aaaa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint/>
+            <label>Assigned to</label>
+            <language>en</language>
+            <name>x_167386_wed_aaaa</name>
+            <plural>Assigned to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-26 15:42:29</sys_created_on>
+            <sys_id>a50b63594f742300b64ca7d18110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned to</sys_name>
+            <sys_package display_value="Wed" source="x_167386_wed">92caab194f742300b64ca7d18110c713</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wed">92caab194f742300b64ca7d18110c713</sys_scope>
+            <sys_update_name>sys_documentation_x_167386_wed_aaaa_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-26 15:42:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
